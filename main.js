@@ -1,7 +1,7 @@
 //画像
 let IMG = {}
 IMG['Title']=new Image()
-IMG['Title'].src='img/Ew_S-hTVoAE0Xlr.png'
+IMG['Title'].src='https://github.com/aoiro03/invader/blob/main/Ew_S-hTVoAE0Xlr.png?raw=true'
 IMG['Player'] = new Image()
 IMG['Player'].src = 'img/player.png'
 IMG['Shot'] = new Image()
