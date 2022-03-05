@@ -56,7 +56,7 @@ function reset() {
 //タイトル
 function title() {
     ctx.clearRect(0, 0, WIDTH, HEIGHT)
-    ctx.fillStyle = 'white'
+    ctx.fillStyle = 'black'
     ctx.fillRect(0, 0, WIDTH, HEIGHT)
     ctx.drawImage(IMG['Title'],0,0)
     ctx.fillStyle = 'white'
