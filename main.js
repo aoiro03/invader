@@ -1,7 +1,7 @@
 //画像
 let IMG = {}
 IMG['Title']=new Image()
-IMG['Title'].src='img/Ew_S-hTVoAE0Xlr.png'
+IMG['Title'].src='Ew_S-hTVoAE0Xlr.png'
 IMG['Player'] = new Image()
 IMG['Player'].src = 'img/player.png'
 IMG['Shot'] = new Image()
